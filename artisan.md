@@ -1,9 +1,9 @@
 # Artisan Console
 
-- [Introduction](#introduction)
-- [Writing Commands](#writing-commands)
-    - [Generating Commands](#generating-commands)
-    - [Command Structure](#command-structure)
+- [পরিচিতি](#introduction)
+- [কমান্ড লেখা](#writing-commands)
+    - [কমান্ড তৈরি করা](#generating-commands)
+    - [কমান্ডের গঠন](#command-structure)
     - [Closure Commands](#closure-commands)
 - [Defining Input Expectations](#defining-input-expectations)
     - [Arguments](#arguments)
